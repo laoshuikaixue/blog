@@ -1,1 +1,1 @@
-[{"name":"编程","path":"api/categories/编程.json","slug":"编程","count":7},{"name":"歌单","path":"api/categories/歌单.json","slug":"歌单","count":1},{"name":"Python","path":"api/categories/编程/Python.json","slug":"编程/Python","count":7}]
+[{"name":"歌单","path":"api/categories/歌单.json","slug":"歌单","count":1},{"name":"编程","path":"api/categories/编程.json","slug":"编程","count":7},{"name":"Python","path":"api/categories/编程/Python.json","slug":"编程/Python","count":7}]
